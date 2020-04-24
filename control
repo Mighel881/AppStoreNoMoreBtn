@@ -1,0 +1,11 @@
+Package: com.imkpatil.appstorenomorebtn
+Name: AppStoreNoMoreBtn
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Always show the full update changelog in AppStore!
+Maintainer: Kiran Patil
+Author: Kiran Patil
+Section: Tweaks
+Depiction: https://imkpatil.github.io/repo/depiction/AppStoreNoMoreBtn/index.html
+Icon: file:///Library/Application Support/AppStoreNoMoreBtn/icon.png
